@@ -3,13 +3,24 @@
     <div class="m-4 md:m-0 grid grid-cols-9">
       <div class="col-span-9 md:col-span-6">
         <swiper ref="MainSlider" :options="swiperOptions" class="swiper flex">
-          <swiper-slide :key="slider.id" v-for="slider in desktopSlider" class="hidden md:block">
+          <swiper-slide
+            v-for="slider in desktopSlider"
+            :key="slider.id"
+            class="hidden md:block"
+          >
             <Banner :banner="slider"></Banner>
           </swiper-slide>
-          <swiper-slide :key="slider.id" v-for="slider in sliders" class="md:hidden">
+          <swiper-slide
+            v-for="slider in sliders"
+            :key="slider.id"
+            class="md:hidden"
+          >
             <Banner :banner="slider"></Banner>
           </swiper-slide>
-          <div class="swiper-pagination swiper-pagination-white" slot="pagination"></div>
+          <div
+            slot="pagination"
+            class="swiper-pagination swiper-pagination-white"
+          ></div>
         </swiper>
       </div>
       <div class="col-span-3 space-y-4 mr-4 hidden md:block">
@@ -21,12 +32,15 @@
 </template>
 
 <script>
-import Banner from "./Banner";
-import {data} from '~/static/index.json';
+import Banner from './Banner'
+import { data } from '~/static/index.json'
 export default {
-  name: "MainSlider",
+  name: 'MainSlider',
   components: {
     Banner
+  },
+  props: {
+    sliders: Array
   },
   data() {
     return {
@@ -39,20 +53,16 @@ export default {
         pagination: {
           el: '.swiper-pagination',
           clickable: true
-        },
+        }
       }
     }
-  },
-  props: {
-    sliders: Array
   },
   computed: {
     swiper() {
       return this.$refs.MainSlider.$swiper
     }
-  },
+  }
 }
 </script>
 
-<style scoped lang="scss">
-</style>
+<style scoped lang="scss"></style>
