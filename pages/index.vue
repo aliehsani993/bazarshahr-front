@@ -47,8 +47,8 @@ export default {
   async asyncData ({$axios, route}) {
     const home = await $axios.get(`/customer/index`)
     return {
-      home: home.data.data,
-      dynamicItems: home.data.data.dynamic_items
+      home: home.data,
+      dynamicItems: home.data.dynamic_items
     }
   },
   methods: {}
