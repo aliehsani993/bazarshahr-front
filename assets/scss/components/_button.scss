@@ -1,0 +1,16 @@
+/*.btn {
+  background: $color-primary;
+  height: 3rem;
+  color: white;
+  padding: 0 1rem;
+  transition: 0.25s;
+  border-radius: .25rem;
+
+  &:hover {
+    background: $color-primary-dark;
+  }
+}*/
+
+.btn-shadow {
+  box-shadow: 0 10px 30px $color-primary-20;
+}

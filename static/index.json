@@ -1,0 +1,1475 @@
+{
+  "success": true,
+  "data": {
+    "search_min_digits": "2",
+    "sliders": [
+      {
+        "caption": "سرای دیجیتال",
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/39587729bb182ead5cde505318faec939b4206d2_1635951655.jpg?x-oss-process=image/quality,q_80",
+        "link_type": "shop",
+        "link_id": "55"
+      },
+      {
+        "caption": "سرای دیجیتال",
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/dfcf14b12c40e4297f8b6cfcd552dbd0805355e1_1635331671.jpg?x-oss-process=image/quality,q_80",
+        "link_type": "shop",
+        "link_id": "55"
+      },
+      {
+        "caption": "لاستیک بارز",
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/7f2f5499c7c56c089810f4efdd5a72da44f3f79e_1635933359.jpg?x-oss-process=image/quality,q_80",
+        "link_type": "shop",
+        "link_id": "45"
+      },
+      {
+        "caption": "سرای دیجیتال",
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/57d2343ddccd4f3e5f698acbac31d8fa2c4918fc_1635857045.jpg?x-oss-process=image/quality,q_80",
+        "link_type": "shop",
+        "link_id": "55"
+      }
+    ],
+    "categories": [
+      {
+        "id": 673,
+        "title": "کفش",
+        "icon": "/shoe.svg",
+        "color": "#F7DBF0",
+        "image": "http:\/\/bazarshahr.test\/storage\/categories\/1615276805a94d9b037ed5bc97e66107b8c6965020.jpg",
+        "has_child": false,
+        "url": "\/products\/?category=673",
+        "children": []
+      },
+      {
+        "id": 179,
+        "title": "کیف",
+        "icon": "/bag.svg",
+        "color": "#CEE5D0",
+        "image": "http:\/\/bazarshahr.test\/storage\/categories\/1611137509717fb1a75a05286a54bc4abf1ea7a595.jpg",
+        "has_child": true,
+        "url": "\/categories\/179"
+      },
+      {
+        "id": 179,
+        "title": "لاستیک",
+        "color": "#DDF3F5",
+        "icon": "/tire.svg",
+        "image": "http:\/\/bazarshahr.test\/storage\/categories\/1611137509717fb1a75a05286a54bc4abf1ea7a595.jpg",
+        "has_child": true,
+        "url": "\/categories\/179"
+      },
+      {
+        "id": 175,
+        "title": "حبوبات",
+        "color": "#FFECC7",
+        "icon": "/cereal.svg",
+        "image": "/cereal.svg",
+        "has_child": true,
+        "url": "\/categories\/175"
+      },
+      {
+        "id": 673,
+        "title": "کفش",
+        "color": "#F7DBF0",
+        "icon": "/shoe.svg",
+        "image": "http:\/\/bazarshahr.test\/storage\/categories\/1615276805a94d9b037ed5bc97e66107b8c6965020.jpg",
+        "has_child": false,
+        "url": "\/products\/?category=673",
+        "children": []
+      },
+      {
+        "id": 179,
+        "title": "کیف",
+        "icon": "/bag.svg",
+        "color": "#CEE5D0",
+        "image": "http:\/\/bazarshahr.test\/storage\/categories\/1611137509717fb1a75a05286a54bc4abf1ea7a595.jpg",
+        "has_child": true,
+        "url": "\/categories\/179"
+      },
+      {
+        "id": 179,
+        "title": "لاستیک",
+        "icon": "/tire.svg",
+        "color": "#DDF3F5",
+        "image": "http:\/\/bazarshahr.test\/storage\/categories\/1611137509717fb1a75a05286a54bc4abf1ea7a595.jpg",
+        "has_child": true,
+        "url": "\/categories\/179"
+      },
+      {
+        "id": 175,
+        "title": "حبوبات",
+        "color": "#FFECC7",
+        "icon": "/cereal.svg",
+        "image": "/cereal.svg",
+        "has_child": true,
+        "url": "\/categories\/175"
+      }
+    ],
+    "dynamic_items": [
+      {
+        "type": "featured_products",
+        "title": "title",
+        "breakpoint": "mobile",
+        "link_type": "shop",
+        "link_id": "4",
+        "background_color": "#FF0000",
+        "image": "https://google.com",
+        "data": [
+          {
+            "id": 318327,
+            "name": "شامپو بدن صورتی فیروز حجم 450 میلی لیتر",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-4c9d8a81be2dbdeadd05962c0fb4369a.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318344,
+            "name": "صابون بچه جانسون مدل Blossoms",
+            "model": "Blossoms",
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-efe206519a90b02615c5cb30e6b1b573.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318353,
+            "name": "شامپو دو قلوی بچه سواو",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-9750a13b46e3376dcdf560f33fae5a58.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318352,
+            "name": "کرم سوختگی پای کودکان بتیس حجم 45 میل",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-ac5e146cc7cca5a32e59a0f8fd1bb4a1.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318348,
+            "name": "دستمال مرطوب کودک دافی",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-e02fba7d58eb5fd98cb7234a8e7b8a39.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318347,
+            "name": "پوشک بچه پریما  شورتی سایز 6 بسته 34 عددی",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-d3c260f34e005624d2eb5b50bd2798b0.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318350,
+            "name": "پوشک بچه پریما لهستان سایز 5 تعداد 42 عددی",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-21a951978a81923a53714838fc382a05.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318332,
+            "name": "شامپو دخترانه شاوما وزن  250 میلی",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-09c4e6ab86ec986818ca40a4726bb759.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318331,
+            "name": "شامپو بچه گلرنگ ستاره ای قرمز 210 گرمی",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-f6dad4e87f1244a11243cdbea1617df9.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318329,
+            "name": "شامپو بچه بس (بدون سوزش چشم)",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-ff668fe1de11cf8c7e26c77f3f6cc44a.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318328,
+            "name": "پوشک بچه بارلی سایز 4 (7-18 کیلوگرم) بسته 12 عددی",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-fa38f559f932b2870ba77b9d1db13c13.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318334,
+            "name": "شامپوی بچه ایروکس حجم : ۲۰۰ گرم",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-aa9c5fee59c6b875ebb2f44dc07cc5e7.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318326,
+            "name": "ناخنگیر بچه تامی تیپی",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-3832625dfdb1eb82677b5165fc3bb1d3.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318325,
+            "name": "پاک کننده بینی بچه فناور طب اسپادانا",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-d45532d060a3a9193db70df6775cbdff.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318324,
+            "name": "روغن بدن کودک جانسون",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-31090898730a16a69aabe7051ac514e4.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318322,
+            "name": "شامپو ملایم کودک لامینین 200 ميل",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-941945f9d353d81a715e7e6159b7313b.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318321,
+            "name": "ست ۴ تکه حوله نوزادی دخترانه طرح خرسی کد ۶۰",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-6774f89505bee762928a5cf44c456b65.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318319,
+            "name": "تبدیل توالت فرنگی کودک  طرح میکی موس",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-278525690b0820c18189fa43e05ff155.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318318,
+            "name": "زیرانداز  تعویض بهداشتی تافته بسته 12 عددی",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-17ea848a6cf3331e595d752dd09ea2f6.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318317,
+            "name": "توری وان حمام کودک ایس ایز سایز کوچک",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-987fa350844c90c4183fbfaef02f75a3.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318316,
+            "name": "ساک لوازم نوزاد مان تریسور سه تکه مدل MSF121",
+            "model": "MSF121",
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-688f7245bb2559481c0ac5b1855cf287.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318315,
+            "name": "ست مراقبتی دخترانه نوویتا",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-1e757064008b99886aa6327a7e5448a7.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          },
+          {
+            "id": 318314,
+            "name": "پوشک بچه جان به به سایز 6 بسته 28 عددی",
+            "model": null,
+            "image": "https://api.bazarshahr.dev/storage/media/473/473-e25e4b351b257b852269a1e3c07ba4f4.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1126,
+              "name": "سوپر مارکت",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 473,
+              "name": "لوازم تعویض و بهداشت بدن کودک"
+            }
+          }
+        ]
+      },
+      {
+        "type": "quad_banner",
+        "breakpoint": "desktop",
+        "data": [
+          {
+            "caption": "caption",
+            "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/6242330641b83b4bb5a4c13ff85174b48b644432_1628323882.jpg?x-oss-process=image/quality,q_80",
+            "link_type": "shop",
+            "link_id": "4"
+          },
+          {
+            "caption": "caption",
+            "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/956cd52f1f18f11284016c86561d53bcdcfdeedd_1612606849.jpg?x-oss-process=image/quality,q_80",
+            "link_type": "shop",
+            "link_id": "4"
+          },
+          {
+            "caption": "caption",
+            "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/904db8a169ce8fdc6493e21b6948d3e32a19ae68_1626258276.jpg?x-oss-process=image/quality,q_80",
+            "link_type": "shop",
+            "link_id": "4"
+          },
+          {
+            "caption": "caption",
+            "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/4733b740d15e74f00d50ac92fb126911632b8053_1599385682.jpg?x-oss-process=image/quality,q_80",
+            "link_type": "shop",
+            "link_id": "4"
+          }
+        ]
+      },
+      {
+        "type": "regular_products",
+        "title": "تلویزیونهای سامسونگ",
+        "breakpoint": "all",
+        "link_type": "shop",
+        "link_id": "4",
+        "data": [
+          {
+            "id": 54053,
+            "name": "تلویزیون سامسونگ 40 اینچ مدل N5000",
+            "model": "N5000",
+            "image": "https://api.bazarshahr.dev/storage/media/16033367890ccfdcf93ba300a09251b9c7eb6910fc.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 34,
+              "name": "سامسونگ",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596431586cf89afbdfda3d1040e501f7daf7d7aa3.png"
+            },
+            "score": {
+              "count": 1,
+              "value": 5
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54001,
+            "name": "تلویزیون ایکس ویژن 55 اینچ مدل 55XT540",
+            "model": "55XT540",
+            "image": "https://api.bazarshahr.dev/storage/media/16019938522a477411a4bddde1b224bba52245ae89.png",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 77,
+              "name": "ایکس ویژن",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596356652d109c32c76503b1a648a3c0aada87cc1.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 53921,
+            "name": "تلویزیون ایکس ویژن 43 اینچ مدل XK570",
+            "model": "XK570",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-38310f177942da24418d9894f3f15474.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 77,
+              "name": "ایکس ویژن",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596356652d109c32c76503b1a648a3c0aada87cc1.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 53946,
+            "name": "تلویزیون سامسونگ ۵۵ اینچ مدل RU7100",
+            "model": "RU7100",
+            "image": "https://api.bazarshahr.dev/storage/media/1603080800094624f91c660a52f762064618d10ec4.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 34,
+              "name": "سامسونگ",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596431586cf89afbdfda3d1040e501f7daf7d7aa3.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54363,
+            "name": "تلویزیون جی پلاس 43 اینچ مدل 43FH512N",
+            "model": "43FH512N",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-87157ec1af88d066e1bbdfae859a73f8.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 153,
+              "name": "جی پلاس",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54335,
+            "name": "تلویزیون پاناسونیک اندرویدی 55 اینچ مدل 55GX655",
+            "model": "55GX655",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-c3e87a5b7a8e81cbfba9547ed684f921.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 23,
+              "name": "پاناسونیک",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596427039bd22731f449bfffe8a05c2c8aa05eb48.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54326,
+            "name": "تلویزیون ال جی 55 اینچ مدل UJ69000GI",
+            "model": "UJ69000GI",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-0383d95183310dcef26b15d61d606df6.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1,
+              "name": "ال جی",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964262500760a6a7b4d393803357b60ebe6b04e4.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54316,
+            "name": "تلویزیون سامسونگ 75 اینچ مدل Q70R",
+            "model": "Q70R",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-d4780c70ddc30f6b77cb8a4a6cad37b6.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 34,
+              "name": "سامسونگ",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596431586cf89afbdfda3d1040e501f7daf7d7aa3.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54317,
+            "name": "تلویزیون سامسونگ 75 اینچ مدل NU8900",
+            "model": "NU8900",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-b0af16a8d7af930170734728c3823754.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 34,
+              "name": "سامسونگ",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596431586cf89afbdfda3d1040e501f7daf7d7aa3.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54318,
+            "name": "تلویزیون ال جی 49 اینچ مدل 49SJ80000GI",
+            "model": "49SJ80000GI",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-7c4b601b90547ca48f254a729cba30a7.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1,
+              "name": "ال جی",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964262500760a6a7b4d393803357b60ebe6b04e4.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54319,
+            "name": "تلویزیون سامسونگ 43 اینچ مدل 43M6960",
+            "model": "43M6960",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-02ddff99610dbe180a0e6c02b5ec284a.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 34,
+              "name": "سامسونگ",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596431586cf89afbdfda3d1040e501f7daf7d7aa3.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54320,
+            "name": "تلویزیون فیلیپس 50 اینچ مدل 50PUT6002",
+            "model": "50PUT6002",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-78c5db5686876c673e32610c279096fc.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1012,
+              "name": "فیلیپس",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596357690a503e012e10228d710b8c6e02be3d8fc.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54321,
+            "name": "تلویزیون پانورامیک هوشمند 55 اینچ مدل PA-55SA378M",
+            "model": "PA-55SA378M",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-17733d6dde589bba9299971cc1f3d210.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 224,
+              "name": "پانورامیک",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54322,
+            "name": "تلویزیون سونی 55 اینچ مدل ۵۵A8G",
+            "model": "۵۵A8G",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-5f5f70817ea2e3a356dfe888931f4ffc.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 3,
+              "name": "سونی",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964284767c0ec91519f802ed6b76449b83755396.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54323,
+            "name": "تلویزیون ال جی 65 اینچ مدل 65UK69000GI",
+            "model": "65UK69000GI",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-e47fe02404e7c7149610a216e330558a.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1,
+              "name": "ال جی",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964262500760a6a7b4d393803357b60ebe6b04e4.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54324,
+            "name": "تلویزیون هایسنس 32 اینچ مدل 32N2173",
+            "model": "32N2173",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-52ff2fc2ad9e6f30881e9ef757231eb1.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 208,
+              "name": "هایسنس",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1598413764773c7521e1fcb0497771ef5c2635d1b1.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54325,
+            "name": "تلویزیون پانورامیک 55 اینچ مدل PA-55SA379M",
+            "model": "PA-55SA379M",
+            "image": "https://api.bazarshahr.dev/storage/media/16025034416bcfde7275d49639af1ca6c7650a058c.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 224,
+              "name": "پانورامیک",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54315,
+            "name": "تلویزیون ال جی 55 اینچ مدل SK8100",
+            "model": "SK8100",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-1e272edbe37c5eabb6543569a61fb5b8.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 1,
+              "name": "ال جی",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964262500760a6a7b4d393803357b60ebe6b04e4.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54327,
+            "name": "تلویزیون ایوولی ۴۳ اینچ مدل EV200DS",
+            "model": "EV200DS",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-d149ed42787f287f5ed0687f985a108a.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 989,
+              "name": "ایوولی",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54328,
+            "name": "تلویزیون سامسونگ 65 اینچ مدل MU10000",
+            "model": "MU10000",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-f20dc243086fafab28346b56e210168c.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 34,
+              "name": "سامسونگ",
+              "icon": "https://api.bazarshahr.dev/storage/brands/1596431586cf89afbdfda3d1040e501f7daf7d7aa3.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54329,
+            "name": "تلویزیون سونی اندروید ۶۵ اینچ مدل KD-65X8000G",
+            "model": "KD-65X8000G",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-28d530aa2b436730acba4e9c73a662c4.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 3,
+              "name": "سونی",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964284767c0ec91519f802ed6b76449b83755396.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54330,
+            "name": "تلویزیون دوو هوشمند 43 اینچ مدل 43K5400",
+            "model": "43K5400",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-07abba44eac870861a4fbccb5cb6ef56.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 183,
+              "name": "دوو",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15963571847ad3c1846cc470b72d3712b8ed88e4ad.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54331,
+            "name": "تلویزیون سونی 43 اینچ مدل W800G",
+            "model": "W800G",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-22a87169b3c2c68d6dfa7e5b55d42e73.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 3,
+              "name": "سونی",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964284767c0ec91519f802ed6b76449b83755396.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          },
+          {
+            "id": 54332,
+            "name": "تلویزیون جی پلاس 32 اینچ مدل GTV-32JD512N",
+            "model": "GTV-32JD512N",
+            "image": "https://api.bazarshahr.dev/storage/media/246/246-f9515b0eefd24e177fb06a96daff4b85.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 153,
+              "name": "جی پلاس",
+              "icon": null
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 246,
+              "name": "تلویزیون"
+            }
+          }
+        ]
+      },
+      {
+        "type": "dual_banner",
+        "breakpoint": "mobile",
+        "data": [
+          {
+            "caption": "caption",
+            "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c8d413e89101254647498b9bdf92198362e801f7_1635237949.jpg?x-oss-process=image/quality,q_80",
+            "link_type": "shop",
+            "link_id": "4"
+          },
+          {
+            "caption": "caption",
+            "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/8efcf8d1dd4eb498a5b5ff4a6bfac3041fd30cce_1635950248.jpg?x-oss-process=image/quality,q_80",
+            "link_type": "shop",
+            "link_id": "4"
+          }
+        ]
+      },
+      {
+        "type": "grid_products",
+        "title": "گوشیهای نوکیا",
+        "breakpoint": "mobile",
+        "link_type": "shop",
+        "link_id": "4",
+        "data": [
+          {
+            "id": 190068,
+            "name": "گوشی موبایل نوکیا مدل 301",
+            "model": "301",
+            "image": "https://api.bazarshahr.dev/storage/media/188/188-93baf53d83171d0e2b9a53e0a53f8a93.jpg",
+            "sellers_count": 0,
+            "price": 300000,
+            "sale_price": 280000,
+            "brand": {
+              "id": 5,
+              "name": "نوکیا",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964308476a42c440c22dd1380e2e28b8303c3dd0.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 188,
+              "name": "گوشی نوکیا"
+            }
+          },
+          {
+            "id": 190067,
+            "name": "گوشی موبایل نوکیا  مدل 1112",
+            "model": "1112",
+            "image": "https://api.bazarshahr.dev/storage/media/188/188-c6f4ef990d75194661d1efe1772d25fe.jpg",
+            "sellers_count": 0,
+            "price": 2500000,
+            "sale_price": null,
+            "brand": {
+              "id": 5,
+              "name": "نوکیا",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964308476a42c440c22dd1380e2e28b8303c3dd0.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 188,
+              "name": "گوشی نوکیا"
+            }
+          },
+          {
+            "id": 190066,
+            "name": "گوشي موبايل نوکيا مدل 5130",
+            "model": "5130",
+            "image": "https://api.bazarshahr.dev/storage/media/188/188-97bbad80c0c5d503a0b77b8e38dcc1d1.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 5,
+              "name": "نوکیا",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964308476a42c440c22dd1380e2e28b8303c3dd0.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 188,
+              "name": "گوشی نوکیا"
+            }
+          },
+          {
+            "id": 190064,
+            "name": "گوشي موبايل نوکيا مدل X3",
+            "model": "X3",
+            "image": "https://api.bazarshahr.dev/storage/media/188/188-dcbf34e78a17e40456ad542589f56150.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 5,
+              "name": "نوکیا",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964308476a42c440c22dd1380e2e28b8303c3dd0.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 188,
+              "name": "گوشی نوکیا"
+            }
+          },
+          {
+            "id": 190063,
+            "name": "گوشي موبايل نوکيا مدل 8800",
+            "model": "8800",
+            "image": "https://api.bazarshahr.dev/storage/media/188/188-5157a5d5600545a4440f35c29d29c0e7.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 5,
+              "name": "نوکیا",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964308476a42c440c22dd1380e2e28b8303c3dd0.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 188,
+              "name": "گوشی نوکیا"
+            }
+          },
+          {
+            "id": 190061,
+            "name": "گوشي موبايل نوکيا مدل 1202",
+            "model": "1202",
+            "image": "https://api.bazarshahr.dev/storage/media/188/188-7d72ea419c3d086d475694472aaa0fc7.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 5,
+              "name": "نوکیا",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964308476a42c440c22dd1380e2e28b8303c3dd0.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 188,
+              "name": "گوشی نوکیا"
+            }
+          },
+          {
+            "id": 190059,
+            "name": "گوشی  موبایل نوکیا مدل 101",
+            "model": "101",
+            "image": "https://api.bazarshahr.dev/storage/media/188/188-d0877c832f7c017337811dbe157cb78a.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 5,
+              "name": "نوکیا",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964308476a42c440c22dd1380e2e28b8303c3dd0.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 188,
+              "name": "گوشی نوکیا"
+            }
+          },
+          {
+            "id": 190057,
+            "name": "گوشي موبايل نوکيا مدل 5800",
+            "model": "5800",
+            "image": "https://api.bazarshahr.dev/storage/media/188/188-e269190f01ec102064706e6a3fd2c7b6.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 5,
+              "name": "نوکیا",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964308476a42c440c22dd1380e2e28b8303c3dd0.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 188,
+              "name": "گوشی نوکیا"
+            }
+          },
+          {
+            "id": 190098,
+            "name": "گوشي موبايل نوکيا مدل 6700",
+            "model": "6700",
+            "image": "https://api.bazarshahr.dev/storage/media/188/188-5b5859d905d98709920cac9247c56ffe.jpg",
+            "sellers_count": 0,
+            "price": null,
+            "sale_price": null,
+            "brand": {
+              "id": 5,
+              "name": "نوکیا",
+              "icon": "https://api.bazarshahr.dev/storage/brands/15964308476a42c440c22dd1380e2e28b8303c3dd0.png"
+            },
+            "score": {
+              "count": 0,
+              "value": 0
+            },
+            "discount": null,
+            "category": {
+              "id": 188,
+              "name": "گوشی نوکیا"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

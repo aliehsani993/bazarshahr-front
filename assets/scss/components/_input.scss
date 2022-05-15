@@ -1,0 +1,21 @@
+.input {
+  border: 1px solid $color-gray;
+  border-radius: .25rem;
+  height: 3rem;
+  padding: 0 1rem;
+  font-size: .875rem;
+
+  &:focus-visible {
+    border: 1px solid $color-primary;
+    outline: none;
+  }
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}

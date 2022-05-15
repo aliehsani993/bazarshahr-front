@@ -1,0 +1,12 @@
+h1,h2,h3,h4,h5,h6 {
+  color: black;
+}
+
+p {
+  line-height: 2rem;
+  font-size: .925rem;
+}
+
+.breadcrumbs>ul>li+:before {
+  transform: rotate(315deg);
+}
