@@ -277,6 +277,7 @@ export default {
     const products = await $axios.get(`/products`, {
       params: route.query
     })
+    console.log(products.data)
     return {
       products: products.data,
       sort: route.query.sort
