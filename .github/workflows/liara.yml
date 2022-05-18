@@ -15,6 +15,7 @@ jobs:
         env:
           LIARA_TOKEN: ${{ secrets.LIARA_API_TOKEN }}
         run: |
+          npm i
           npm run start
           npm run generate
           npm i -g @liara/cli@2
