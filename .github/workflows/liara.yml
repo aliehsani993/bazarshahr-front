@@ -16,7 +16,6 @@ jobs:
           LIARA_TOKEN: ${{ secrets.LIARA_API_TOKEN }}
         run: |
           npm i
-          npm run start
           npm run generate
           npm i -g @liara/cli@2
           liara deploy --app="hekma-static" --path="dist" --api-token="$LIARA_TOKEN" --region iran --detach
