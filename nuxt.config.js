@@ -11,21 +11,16 @@ export default {
       lang: 'fa'
     },
     meta: [
-      {charset: 'utf-8'},
-      {name: 'viewport', content: 'width=device-width, initial-scale=1'},
-      {hid: 'description', name: 'description', content: ''},
-      {name: 'format-detection', content: 'telephone=no'}
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { hid: 'description', name: 'description', content: '' },
+      { name: 'format-detection', content: 'telephone=no' }
     ],
-    link: [
-      {rel: 'icon', type: 'image/x-icon', href: '/favico.png'}
-    ]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favico.png' }]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [
-    'swiper/swiper-bundle.css',
-    '~/assets/scss/main.scss',
-  ],
+  css: ['swiper/swiper-bundle.css', '~/assets/scss/main.scss'],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
@@ -33,11 +28,10 @@ export default {
     '~/plugins/price.js',
     '~/plugins/axios.js',
     '~/plugins/linkable.js',
-    {src: '@/plugins/nuxt-swiper-plugin.js', mode: 'client'},
+    { src: '@/plugins/nuxt-swiper-plugin.js', mode: 'client' }
   ],
 
   server: {
-    host: '0',
     port: 3000
   },
 
@@ -54,14 +48,14 @@ export default {
     '@nuxtjs/tailwindcss',
     '@nuxtjs/style-resources',
     '@nuxtjs/fontawesome',
-    "@nuxtjs/moment",
+    '@nuxtjs/moment'
   ],
 
   moment: {
-    defaultLocale: "fa",
-    locales: ["fa"],
-    timezone: {matchZones: "Iran"},
-    plugins: ["moment-jalaali"]
+    defaultLocale: 'fa',
+    locales: ['fa'],
+    timezone: { matchZones: 'Iran' },
+    plugins: ['moment-jalaali']
   },
 
   fontawesome: {
@@ -95,7 +89,7 @@ export default {
   },
 
   styleResources: {
-    scss: ['~/assets/scss/_variables.scss'],
+    scss: ['~/assets/scss/_variables.scss']
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -118,11 +112,11 @@ export default {
         code: 'en',
         name: 'English',
         dir: 'ltr'
-      },
+      }
     ],
     vueI18nLoader: true,
     defaultLocale: 'fa',
-    vueI18n: {fallbackLocale: 'en'},
+    vueI18n: { fallbackLocale: 'en' }
   },
 
   auth: {
@@ -130,7 +124,7 @@ export default {
       login: '/auth/login',
       home: '/',
       logout: '/auth/login',
-      callback: false, // not used here in our case
+      callback: false // not used here in our case
     },
     strategies: {
       localPassword: {
@@ -139,9 +133,13 @@ export default {
           type: 'Bearer'
         },
         endpoints: {
-          login: {url: '/auth/login/password', method: 'post', propertyName: 'data.auth_token'},
-          logout: {url: '/auth/logout', method: 'post'},
-          user: {url: '/user/profile', method: 'get', propertyName: 'data'}
+          login: {
+            url: '/auth/login/password',
+            method: 'post',
+            propertyName: 'data.auth_token'
+          },
+          logout: { url: '/auth/logout', method: 'post' },
+          user: { url: '/user/profile', method: 'get', propertyName: 'data' }
         }
       },
       local: {
@@ -150,9 +148,13 @@ export default {
           type: 'Bearer'
         },
         endpoints: {
-          login: {url: '/auth/login/otp/verify', method: 'post', propertyName: 'data.auth_token'},
-          logout: {url: '/auth/logout', method: 'post'},
-          user: {url: '/user/profile', method: 'get', propertyName: 'data'}
+          login: {
+            url: '/auth/login/otp/verify',
+            method: 'post',
+            propertyName: 'data.auth_token'
+          },
+          logout: { url: '/auth/logout', method: 'post' },
+          user: { url: '/user/profile', method: 'get', propertyName: 'data' }
         }
       }
     }
@@ -169,14 +171,5 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 
-  axios: {
-    proxy: true
-  },
-  proxy:{
-    '/v1/': {
-      target: 'https://api.bazarshahr.dev/v1',
-      pathRewrite: {'^/v1/': ''},
-      changeOrigin: true
-    }
-  }
+  axios: {}
 }
