@@ -1,9 +1,7 @@
 export default function({ $axios, error: nuxtError }) {
   // Todo : Set this items
-  $axios.onRequest(() => {
-    $axios.setHeader('Access-Control-Allow-Origin', '*')
-  })
-  // $axios.setBaseURL('https://hekma.iran.liara.run/v1')
+  $axios.setBaseURL('https://hekma.iran.liara.run/v1')
+  $axios.setHeader('Access-Control-Allow-Origin', '*')
   $axios.setHeader('Device-Id', 'Device-Id')
   $axios.setHeader('Device-Name', 'Browser')
   $axios.setHeader('Platform-Version', 'Browser-Version')

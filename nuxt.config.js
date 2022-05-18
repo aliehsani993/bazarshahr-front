@@ -171,14 +171,5 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 
-  axios: {
-    baseURL: 'https://hekma.iran.liara.run/v1'
-  }
-  // proxy: {
-  //   '/api': {
-  //     target: 'https://hekma.iran.liara.run',
-  //     pathRewrite: { '/api': 'v1' },
-  //     changeOrigin: true
-  //   }
-  // }
+  axios: {}
 }
