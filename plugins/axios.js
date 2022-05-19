@@ -1,16 +1,18 @@
 export default function({ $axios, error: nuxtError }) {
   // Todo : Set this items
-  $axios.setBaseURL('https://hekma.iran.liara.run/v1')
+
   $axios.setHeader('Access-Control-Allow-Origin', '*')
-  $axios.setHeader('Device-Id', 'Device-Id')
-  $axios.setHeader('Device-Name', 'Browser')
-  $axios.setHeader('Platform-Version', 'Browser-Version')
-  $axios.setHeader('Platform', 'Web')
-  $axios.setHeader('Application-Version-Name', 'Application-Version-Name')
-  $axios.setHeader('Application-Version-Code', 'Application-Version-Code')
-  // $axios.setHeader('Application-Id', 'bazarshahr.dev')
-  $axios.setHeader('Application-Type', 'Customer')
   $axios.setHeader('Accept', 'application/json')
+  $axios.setHeader('Content-Type', 'application/json')
+
+  // $axios.setHeader('Device-Id', 'Device-Id')
+  // $axios.setHeader('Device-Name', 'Browser')
+  // $axios.setHeader('Platform-Version', 'Browser-Version')
+  // $axios.setHeader('Platform', 'Web')
+  // $axios.setHeader('Application-Version-Name', 'Application-Version-Name')
+  // $axios.setHeader('Application-Version-Code', 'Application-Version-Code')
+  // // $axios.setHeader('Application-Id', 'bazarshahr.dev')
+  // $axios.setHeader('Application-Type', 'Customer')
 
   $axios.onError(error => {
     const { status } = error.response

@@ -272,17 +272,14 @@ export default {
   },
   auth: false,
   async asyncData({ $axios, route }) {
-    // TODO: html data is passed to v-for ?!
-    // TODO: pagination is undefined
-    const products = await $axios.get(`/products`, {
+    const products = await $axios.get(`/api/products`, {
       params: route.query
     })
-    console.log(products.data)
     return {
       products: products.data,
-      sort: route.query.sort
-      // pagination: products.data.pagination,
-      // emptyList: products.data.empty_list
+      sort: route.query.sort,
+      pagination: products.data.pagination,
+      emptyList: products.data.empty_list
     }
   },
   data: () => ({

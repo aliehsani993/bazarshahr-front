@@ -1,7 +1,7 @@
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
-  target:'static',
+  // target: 'static',
   srcDir: __dirname,
 
   // Global page headers: https://go.nuxtjs.dev/config-head
@@ -32,6 +32,7 @@ export default {
   ],
 
   server: {
+    host: 0,
     port: 3000
   },
 
@@ -171,5 +172,16 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 
-  axios: {}
+  axios: {
+    proxy: true,
+    crossdomain: true,
+    withCredentials: false
+  },
+  proxy: {
+    '/api/': {
+      target: 'https://hekma.iran.liara.run/v1',
+      pathRewrite: { '^/api/': '' },
+      changeOrigin: true
+    }
+  }
 }
